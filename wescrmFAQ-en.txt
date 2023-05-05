@@ -1,0 +1,35 @@
+
+How to automatically send different welcome messages when adding friends? Sales, customer service, HR... Different positions add different groups of people, and each position sets different welcome messages. When adding customers as friends, automatic messages are sent to establish a warm connection.
+So, how do you set up automatic welcome messages when adding friends?
+
+In the WeSCRM "Private Domain Marketing" "Personalized Welcome Message" feature, we can set up welcome messages and choose the members or departments that will use this welcome message. For example, the sales team can set up company and product introductions as welcome messages, allowing customers to quickly understand the company and lay the groundwork for subsequent communication. Customer service can set up frequently asked questions or product manuals as welcome messages, guiding customers to solve problems on their own.
+
+WeSCRM also supports "Time-Specific Welcome Messages", so friends added at different times will receive different welcome messages. For example, a welcome message during non-working hours can be set to "It is currently break time, customer service response may be slower, you can leave a message directly, and customer service will reply to you as soon as possible."
+
+In addition, we can set different welcome messages for each channel activation code when creating it, refining the operation of different channels' customers.
+
+How to break the 200-person limit in a single group during group operations? Encouraging potential customers to join a WeChat group and continuously operating through content seeding can activate potential customers. When guiding potential customers to scan the code to enter the WeChat group, if the group reaches 200 people, they cannot directly scan the code to join the group and need to be invited. This limitation of WeChat requires operators to pay close attention to the number of people in the group. When the group chat is about to reach 200 people, manually replace the group QR code. If the replacement is not timely, the customer will be lost directly.
+So, how do you break the 200-person limit in a single group?
+
+The native group activity code of Enterprise WeChat can automatically create a new group when the number of people reaches 200, supporting up to 5 groups. If your customer base is larger than 1000, the native functionality of Enterprise WeChat cannot support it. At this point, you can use the "Group Activity Code" of WeSCRM to solve this problem.
+
+We upload the Enterprise WeChat QR code or group activity code to the "Group Activity Code" in WeSCRM "Private Domain Marketing", and aggregate it into a group activity code. This group activity code can be associated with an unlimited number of groups and never expires. With WeSCRM's group activity code, operators no longer need to monitor the number of people in the group chat and manually replace the QR code!
+
+In addition, the group activity code also supports associating store geographic locations. When customers scan the code to join the group, the system will display the group QR code of the nearest store according to the customer's location, accurately diverting customers. The system will also automatically count the data of scanning the code to join the group, helping to analyze the drainage effect!
+
+How to establish a "friend + group friend" dual connection with customers during group operations? Group operations are one of the main ways of private domain operations. In the actual operation process, customer withdrawal from the group or the end of the flash group is equivalent to customer loss. If you can automatically establish a "friend + group friend" dual connection with customers, you have more opportunities to continuously operate customers.
+So, how do you quickly establish a "friend + group friend" dual connection with customers?
+
+In WeSCRM "Private Domain Marketing" "Automatic Group Pull", you can create an automatic group pull task. Set the entry guide language and group activity code, and when the customer scans the automatic group pull QR code, they will first be added as a friend, and then receive a message with the entry guide language and QR code, guiding the customer to actively scan the code to join the group.
+
+In this way, even if the customer leaves the group or the flash group operation ends, we still maintain a friendship with the customer, which can be used for subsequent one-on-one conversions or pulling them into new groups for operation.
+
+How to let customers with common tags join the same group? The company has accumulated a large number of customers with different profiles and needs, requiring different operation strategies. By pulling customers with common tags into the same group and formulating targeted operation strategies, the conversion rate can be improved.
+So, how do you pull customers with common tags into the same group?
+
+In WeSCRM "Private Domain Marketing" "Tag-Based Grouping", we can filter target customers through one or more tags, and then push the entry guide language and group QR code to them. Customers can long-press to identify the QR code and enter the corresponding group. Operating staff can develop continuous operation plans based on the customer profiles in the group chat, resulting in higher conversion rates!
+
+How to create a VIP customer group with multiple colleagues providing collaborative services with one click? Customer service often requires the participation of colleagues from different departments, such as sales connecting with business, project managers responsible for specific needs, finance responsible for invoicing, and customer service providing technical support. Creating a one-to-many VIP customer group for the customer is not only convenient for colleagues to collaborate on customer service, but also makes the customer feel valued and respected.
+So, how do you create a VIP customer group with one click and automatically pull relevant colleagues into the group?
+
+In WeSCRM "Private Domain Marketing" "VIP Group", we can set up group creation rules and add colleagues who need to collaborate on customer service to the rules. When creating a one-to-many VIP customer group, click the Super Sidebar in the lower right corner of the Enterprise WeChat chat window, then go to the "Customer Details" page, click "Quick Group Creation", and select the group creation rules. This will automatically pull the customer and collaborating colleagues into the group with just one click.
